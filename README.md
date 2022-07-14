@@ -1,4 +1,4 @@
-### Hi there 👋
+### Use Issues Tab to post your issue with Weather for Deepin 👋
 
 <!--
 **app4deepin/App4Deepin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
